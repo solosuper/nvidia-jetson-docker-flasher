@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker build --force-rm -t jetpacker .
+docker build --force-rm -t l4t .
